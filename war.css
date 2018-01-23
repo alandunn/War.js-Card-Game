@@ -1,0 +1,37 @@
+.card{
+	padding: 10px 20px 20px 20px;
+	width: 200px;
+	height: 320px;
+    border-radius: 10px;
+}
+.p1Deck{
+	background: #ced6dd;
+}
+.p2Deck{
+	background: #c0392b;
+}
+.p2Card{
+	font-size: 50px;
+	background-color: #ecf0f1;
+	color: #c0392b ;
+	border: solid #c0392b 5px;
+}
+.blank{
+	background-color: #e9b816 !important;
+	border: none !important;
+}
+.p1Card{
+	font-size: 50px;
+	background-color: #ecf0f1;
+	color: #2c3e50;
+	border: solid #2c3e50 5px;
+}
+.bump{
+	margin: 20px;
+}
+body{
+	background-color: #91aafd !important;
+}
+#gameStatus{
+	font-size: 50px;
+}
